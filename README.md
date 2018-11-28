@@ -1,3 +1,4 @@
+基于源程序修改部分代码——2018/11/28
 # raspberrylive
 A tool which can play videos on Live site by raspberry
 
